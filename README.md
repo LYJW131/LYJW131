@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<img src="https://lyjw.me/api/cards/voronoi.svg" alt="Token usage by model: each cell's area is that model's share of tokens" width="724">
+<a href="https://lyjw.me"><img src="https://lyjw.me/api/cards/voronoi.svg" alt="Token usage by model: each cell's area is that model's share of tokens" width="724"></a>
 
-<img src="https://lyjw.me/api/cards/week.svg" alt="Last 7 days: daily commits as bars, daily tokens as a line" width="724">
+<a href="https://lyjw.me"><img src="https://lyjw.me/api/cards/week.svg" alt="Last 7 days: daily commits as bars, daily tokens as a line" width="724"></a>
 
-<img src="assets/skills.svg" alt="Skills: TypeScript, Python, Swift, Go, React, Vite, Tailwind, Node.js, Cloudflare Workers, Docker, GitHub Actions, Linux" width="724">
+<a href="https://lyjw.me"><img src="assets/skills.svg" alt="Skills: TypeScript, Python, Swift, Go, React, Vite, Tailwind, Node.js, Cloudflare Workers, Docker, GitHub Actions, Linux" width="724"></a>
 
 <!--
 **LYJW131/LYJW131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
