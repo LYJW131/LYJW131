@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<a href="https://lyjw.me"><img src="https://lyjw.me/api/cards/voronoi.svg" alt="Token usage by model: each cell's area is that model's share of tokens" width="724"></a>
+<a href="https://lyjw.me/#vibe-coding"><img src="https://lyjw.me/api/cards/voronoi.svg" alt="Token usage by model: each cell's area is that model's share of tokens" width="724"></a>
 
-<a href="https://lyjw.me"><img src="https://lyjw.me/api/cards/week.svg" alt="Last 7 days: daily commits as bars, daily tokens as a line" width="724"></a>
+<a href="https://lyjw.me/#vibe-coding"><img src="https://lyjw.me/api/cards/week.svg" alt="Last 7 days: daily commits as bars, daily tokens as a line" width="724"></a>
 
 <a href="https://lyjw.me"><img src="assets/skills.svg" alt="Skills: TypeScript, Python, Swift, Go, React, Vite, Tailwind, Node.js, Cloudflare Workers, Docker, GitHub Actions, Linux" width="724"></a>
 
